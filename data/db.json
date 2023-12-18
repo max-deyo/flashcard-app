@@ -1,0 +1,57 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Shoopdy shoop",
+      "description": "okay then"
+    },
+    {
+      "name": "asdfasdf",
+      "description": "qwecqcwq",
+      "id": 2
+    },
+    {
+      "name": "hj",
+      "description": "knh",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "front": "jkwdfas",
+      "back": "asdqc",
+      "deckId": 1,
+      "id": 4
+    },
+    {
+      "front": "asdfasd",
+      "back": "sadfasdf",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "front": "sdfwqefqwe",
+      "back": "qwefwqefwqf",
+      "deckId": 2,
+      "id": 6
+    },
+    {
+      "front": "qwefqwe",
+      "back": "wqefqwefwqe",
+      "deckId": 2,
+      "id": 7
+    }
+  ]
+}
